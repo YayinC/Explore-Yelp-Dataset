@@ -1,4 +1,4 @@
-# Explore-Yelp-Datasets 
+# Explore-Yelp-Dataset . 
 This repo includes two parts:  
 ### Part 1: Data Wrangling using Spark
 Analyzed GB-sized Yelp dataset using PySpark and Spark SQL . 
